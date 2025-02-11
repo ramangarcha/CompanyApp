@@ -1,0 +1,1 @@
+Output of git log --online --graph --all after the above commits.
